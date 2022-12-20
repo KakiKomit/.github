@@ -1,2 +1,2 @@
-# .github
-EZ Invite GitHub Organization profile
+# EZ Invite GitHub Organization profile
+github.com/ezinvite
