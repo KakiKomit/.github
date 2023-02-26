@@ -1,2 +1,2 @@
-# EZ Invite GitHub Organization profile
-github.com/ezinvite
+# KakiKomit GitHub Organization profile
+github.com/kakikomit
