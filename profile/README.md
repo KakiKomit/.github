@@ -1,3 +1,3 @@
-# EZ Invite GitHub Organization profile
+# KakiKomit GitHub Organization profile
 
 Coming soon...
