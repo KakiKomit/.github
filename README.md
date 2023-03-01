@@ -1,2 +1,2 @@
 # KakiKomit
-github.com/kakikomit
+https://www.kakikomit.my
