@@ -1,2 +1,2 @@
-# KakiKomit GitHub Organization profile
+# KakiKomit
 github.com/kakikomit
